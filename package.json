@@ -1,0 +1,19 @@
+{
+  "name": "todo-list-vanilla",
+  "version": "1.0.0",
+  "description": "Простой ToDo List с JSONPlaceholder API",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "eslint": "^8.57.0"
+  }
+}
